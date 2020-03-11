@@ -23,3 +23,10 @@ fields:
   label: layout
   hidden: true
   default: post
+- name: modules
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Modules
